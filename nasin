@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "nasin nanpa",
+  "previewText": "nasin nanpa",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-Bold": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-BoldItalic": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-ExtraBold": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-ExtraBoldItalic": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-Medium": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-MediumItalic": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-Normal": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-NormalItalic": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-Semibold": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "ggsans-SemiboldItalic": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "NotoSans-Bold": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "NotoSans-ExtraBold": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "NotoSans-Medium": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "NotoSans-Normal": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "NotoSans-NormalItalic": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "NotoSans-Semibold": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf",
+    "SourceCodePro-Semibold": "https://github.com/etbcor/nasin-nanpa/releases/download/n4.0.2/nasin-nanpa-4.0.2.otf"
+  }
+}
